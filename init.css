@@ -1,0 +1,24 @@
+/*
+div.cdmContentInner iframe.embeddedContent {
+	overflow : auto;
+	width : 100%;
+	height : 90%;
+	border-width : 0px;
+}
+
+div.postContent iframe.embeddedContent {
+	overflow : auto;
+	width : 100%;
+	height : 100%;
+	border-width : 0px;
+}
+
+div.cdmContent {
+	color : #ffffff;
+	width : 100%;
+	height : 100%;
+	border-width : 10px;
+}
+
+*/
+
